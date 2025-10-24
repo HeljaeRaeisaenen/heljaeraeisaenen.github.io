@@ -14,9 +14,6 @@ We are analysing news sites and determining how big percentage of the headlines 
 
 Our analysis shows the results in terms of the percentage of articles that are not clickbaits. This gives the reader the chance to see which news sites they could try to read, if they also want to avoid clickbait articles. 
 
-(i'll add the image here later)
+![Bar chart of the analysed sites](plot.png)
 
-
-add images
-
-idk
+This plot shows the results for the sites we have analysed so far.
