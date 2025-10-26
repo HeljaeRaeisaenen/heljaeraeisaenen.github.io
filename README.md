@@ -12,7 +12,7 @@ Maybe some more elaboration on why clickbait is a problem?
 
 We are analysing news sites and determining how big percentage of the headlines in the given site fulfill the definition of a clickbait. Our results have a 90% accuracy, so they show reliably the state of the analysed news sites.
 
-Our analysis shows the results in terms of the percentage of articles that are not clickbaits. This gives the reader the chance to see which news sites they could try to read, if they also want to avoid clickbait articles. 
+Our analysis shows the results in terms of the percentage of articles that are not clickbaits. This gives reader the chance to see which news sites they could read, if they also want to avoid clickbait articles. 
 
 ![Bar chart of the analysed sites](plot.png)
 
