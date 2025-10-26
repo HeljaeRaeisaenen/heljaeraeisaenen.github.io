@@ -8,9 +8,9 @@ Many people consider clickbaits to be an issue, in part because the content of t
 
 Maybe some more elaboration on why clickbait is a problem? 
 
-## Coold visualizations
+## Visualizations of the results
 
-We are analysing news sites and determining how big percentage of the headlines in the given site fulfill the definition of a clickbait. 
+We are analysing news sites and determining how big percentage of the headlines in the given site fulfill the definition of a clickbait. Our results have a 90% accuracy, so they show reliably the state of the analysed news sites.
 
 Our analysis shows the results in terms of the percentage of articles that are not clickbaits. This gives the reader the chance to see which news sites they could try to read, if they also want to avoid clickbait articles. 
 
