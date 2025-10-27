@@ -6,7 +6,8 @@ Clickbaits are news articles which encourage the users to click on them, often b
 
 Many people consider clickbait to be an issue, in part because the content of the article often does not match the exaggerated headline and leaves the reader disappointed. In addition, clickbait articles are often considered to be talking about irrelevant things, not actual news that the user would need to read. They catch your attention and move it away from content that is actually interesting, useful and relevant.
 
-![some examples of clickbait](https://github.com/user-attachments/assets/fbb4a95c-bd5c-4467-b43f-ee43291ba7f9)
+![some examples of clickbait](https://github.com/user-attachments/assets/ae54405b-8ba2-4488-a282-dd09ce0d0755)
+
 
 Look familiar? These are some prime examples of clickbait-y content found on the web.
 
