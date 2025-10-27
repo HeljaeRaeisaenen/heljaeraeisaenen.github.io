@@ -1,18 +1,20 @@
 # Detecting clickbait 
 
-## What are clickbaits?
+## What is clickbait?
 
-Clickbaits are news articles which encourage the users to click on them, often by using exaggerated headlines, and giving promises of content they are not specifying in the headline. A classic clickbait could say, for example, “You wouldn’t believe how amazing this new method is!”. This headline tries to catch the attention of the reader by promising something new and amazing, even saying you wouldn’t believe how good it is. The headline, however, does not elaborate on what method we are talking about, or why does it work. The user needs to click the headline and read the article to see those details. 
+Clickbaits are news articles which encourage the users to click on them, often by using exaggerated headlines, and giving promises of content they are not specifying in the headline. A classic clickbait could say, for example, “You wouldn’t believe how amazing this new method is!”. This headline tries to catch the attention of the reader by promising something new and amazing, even saying you wouldn’t believe how good it is. The headline, however, does not elaborate on what method we are talking about, or why does it work. The user needs to click the headline and read the article to see those details. The article is usually disappointing, though. It doesn't live up to the hype in the headline or might not even answer the question in it.
 
-Many people consider clickbaits to be an issue, in part because the content of the article often does not match the exaggerated headline and leaves the reader disappointed. In addition, clickbait articles are often considered to be talking about irrelevant things, not actual news that the user would need to read. 
+Many people consider clickbait to be an issue, in part because the content of the article often does not match the exaggerated headline and leaves the reader disappointed. In addition, clickbait articles are often considered to be talking about irrelevant things, not actual news that the user would need to read. They catch your attention and move it away from content that is actually interesting, useful and relevant.
 
-Maybe some more elaboration on why clickbait is a problem? 
+<img width="1190" height="667" alt="image" src="https://github.com/user-attachments/assets/fbb4a95c-bd5c-4467-b43f-ee43291ba7f9" />
 
-## Visualizations of the results
+Look familiar? These are some prome examples of clickbait-y content found on the web.
 
-We are analysing news sites and determining how big percentage of the headlines in the given site fulfill the definition of a clickbait. Our results have a 90% accuracy, so they show reliably the state of the analysed news sites.
+## Amount of clickbait found on news sites
 
-Our analysis shows the results in terms of the percentage of articles that are not clickbaits. This gives reader the chance to see which news sites they could read, if they also want to avoid clickbait articles. 
+We analysed five big news sites: CNN, NPR, AP news, BBC news, and the infamous Buzzfeed known for having large amounts of clickbait. Using a commonly accepted definition of clickbait, we used machine learning to analyse the headlines found on these sites. Our results have a 90% accuracy, so they show reliably the state of the analysed news sites.
+
+Our analysis shows the results in terms of the percentage of articles that are not clickbait, so the higher the bar, the more "actual news" the site has. This gives reader the chance to see which news sites they could read, if they also want to avoid clickbait articles. Or if you _really_ want to read some lighthearted, clickbait-y content, just pick a site with a shorter bar.
 
 ![Bar chart of the analysed sites](plot.png)
 
