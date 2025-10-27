@@ -8,14 +8,16 @@ The headline, however, does not elaborate on what method we are talking about, o
 
 The incentive for making such clickbait headlines is often financial, as by the time the user has clicked on the article, they would have to watch the ads attached to it. Since authors of web articles who rely on ad revenue are often paid by the view, it is in the author's interest to try to get as many users to click on the article as possible, even by using such dubious clickbait methods to do so.
 
-Many people consider clickbait to be an issue, in part because the content of the article often does not match the exaggerated headline and leaves the reader disappointed and feeling like their time was wasted. In addition, clickbait articles are often considered to be talking about irrelevant things, not actual news that the user would need to read. They catch your attention and move it away from content that is actually interesting, useful and relevant.
-
-The use of clickbait could potentially be seen as a sign of lower-quality journalism, as relying on these tactics can be manipulation of the web user.
 
 ![some examples of clickbait](https://github.com/user-attachments/assets/ae54405b-8ba2-4488-a282-dd09ce0d0755)
 
 
 Look familiar? These are some prime examples of clickbait-y content found on the web.
+
+Many people consider clickbait to be an issue, in part because the content of the article often does not match the exaggerated headline and leaves the reader disappointed and feeling like their time was wasted. In addition, clickbait articles are often considered to be talking about irrelevant things, not actual news that the user would need to read. They catch your attention and move it away from content that is actually interesting, useful and relevant. The use of clickbait could potentially be seen as a sign of lower-quality journalism, as relying on these tactics can be manipulation of the web user.
+
+In addition, there is also a connection between clickbait and doomscrolling. Doomscrolling refers to the act of consuming an excessive amount of negative news, and doing so often has adverse impacts on one's health. 
+
 
 ## Amount of clickbait found on news sites
 
