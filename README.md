@@ -14,9 +14,9 @@ The incentive for making such clickbait headlines is often financial, as by the 
 
 Look familiar? These are some prime examples of clickbait-y content found on the web.
 
-Many people consider clickbait to be an issue, in part because the content of the article often does not match the exaggerated headline and leaves the reader disappointed and feeling like their time was wasted. In addition, clickbait articles are often considered to be talking about irrelevant things, not actual news that the user would need to read. They catch your attention and move it away from content that is actually interesting, useful and relevant. The use of clickbait could potentially be seen as a sign of lower-quality journalism, as relying on these tactics can be manipulation of the web user.
+Many people consider clickbait to be an issue, in part because the content of the article often does not match the exaggerated headline and leaves the reader disappointed and feeling like their time was wasted. In addition, clickbait articles are often considered to be talking about irrelevant things, not actual news that the user would need to read. They catch your attention and move it away from content that is actually interesting, useful and relevant. The use of clickbait could potentially be seen as a sign of lower-quality journalism, as relying on these tactics can be manipulation of the user.
 
-In addition, there is also a connection between clickbait and doomscrolling. Doomscrolling refers to the act of consuming an excessive amount of negative news, and doing so often has adverse impacts on one's health. 
+In addition, there is also a connection between clickbait and doomscrolling. Doomscrolling refers to the act of consuming an excessive amount of negative news, and doing so often has adverse impacts on one's mental health. Because one of the traits of clickbait is the use of alarmist headlines, "scrolling" through a large amount of these kinds of alarmist clickbait headlines can have a substantial negative impact on one's worldview.
 
 
 ## Amount of clickbait found on news sites
