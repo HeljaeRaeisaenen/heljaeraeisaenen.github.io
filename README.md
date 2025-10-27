@@ -1,5 +1,3 @@
-# Detecting clickbait 
-
 ## What is clickbait?
 
 Clickbaits are news articles which encourage the users to click on them, often by using exaggerated, misleading and/or alarmist headlines, and giving promises of content in the headline that they don't actually deliver in the article. A classic clickbait could say, for example, “You wouldn’t believe how amazing this new method is!”. This headline tries to catch the attention of the reader by promising something new and amazing, even saying that you wouldn’t believe how good it is. 
