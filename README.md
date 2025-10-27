@@ -13,7 +13,7 @@ Look familiar? These are some prime examples of clickbait-y content found on the
 
 ## Amount of clickbait found on news sites
 
-We analysed four big news sites: CNN, NPR, AP News, BBC News, plus the infamous Buzzfeed known for having large amounts of clickbait. Using a commonly accepted definition of clickbait, we used machine learning to analyse the headlines found on these sites. Our results have a 90% accuracy, so they show reliably the state of the analysed news sites.
+We analysed four big news sites: CNN, NPR, AP News, BBC News, plus the infamous Buzzfeed known for having large amounts of clickbait. Using a commonly accepted definition of clickbait, we used machine learning to analyse the headlines found on these sites. Our results have a 90% accuracy, so they reliably show the state of the analysed news sites.
 
 Our analysis shows the results in terms of the percentage of articles that are not clickbait, so the higher the bar, the more "actual news" the site has. This gives reader the chance to see which news sites they could read, if they also want to avoid clickbait articles. Or if you _really_ want to read some lighthearted, clickbait-y content, just pick a site with a shorter bar.
 
